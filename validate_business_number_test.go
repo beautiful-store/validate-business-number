@@ -28,7 +28,7 @@ func TestValidateBusinessNumber_유효한번호아닌경우(t *testing.T) {
 
 func TestValidateBusinessNumber_Ok(t *testing.T) {
 	//given
-	a := "2018121515"
+	a := "1018216927"
 	//when
 	actual :=  BusinessNumber(a)
 	//then
