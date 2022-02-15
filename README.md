@@ -13,4 +13,4 @@ go get -u github.com/beautiful-store/validate-business-number
 check := validate.BusinessNumber("1234567890")
 ```
 # Updated
-V1.1 2022-02-16
+v0.0.1 2022-02-16
